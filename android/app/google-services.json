@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531938835062",
+    "project_id": "verinova-app",
+    "storage_bucket": "verinova-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531938835062:android:58e0ef63d07385089d3d57",
+        "android_client_info": {
+          "package_name": "com.verinova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2q1pg2uozDPBINRzD94hTaPGD8_kyqe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
